@@ -1,0 +1,53 @@
+body{
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+color: aqua;
+font-size: 27px;
+}
+#main{
+width: 600px;
+height: 416px;
+}
+#pic{
+width: 484px;
+height: 316px;
+}
+#txt{
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: aquamarine;
+}
+#intro{
+font-family:unset;
+color:yellow;
+}
+#challenges{
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: deepskyblue;
+}
+#send{
+font-family:Georgia, 'Times New Roman', Times, serif;
+color:cyan;
+background-color:black;
+}
+#pic2{
+width: 300px;
+height: 300px;
+}
+#pic3{
+height: 450px;
+width: 250px;
+}
+#pic4{
+width: 550px;
+height: 413px;
+}
+#pic5{
+width:700px;
+height: 400px;
+}
+#pic6{
+width: 960px;
+height: 540px;
+}
